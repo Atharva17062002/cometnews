@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "125235331964",
+    "project_id": "cometnews-583c6",
+    "storage_bucket": "cometnews-583c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125235331964:android:6b00caa495d6db90e01af9",
+        "android_client_info": {
+          "package_name": "com.example.cometnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125235331964-o213dvqp88v1bkaf6v3i0p4hm8gkqd15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cometnews",
+            "certificate_hash": "97e67e766e9725c735c202fae381185be333f3dc"
+          }
+        },
+        {
+          "client_id": "125235331964-p9m2vtbbt8ofu1f6qfq3alqucgp12s0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAehWMgrk_cTJTu8C5NVS6wWo_MwoWASM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125235331964-p9m2vtbbt8ofu1f6qfq3alqucgp12s0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
